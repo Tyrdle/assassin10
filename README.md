@@ -1,5 +1,5 @@
 # Assassin10 Frame
-10" props long range FPV quad frame. Name inspired by the Assassin bug.
+10" long range FPV quad frame. Name inspired by the Assassin bug.
 ![Image of frame](https://github.com/Tyrdle/assassin10/raw/master/10inchrendercf.png)
 
 ### Features
