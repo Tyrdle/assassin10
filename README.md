@@ -1,4 +1,4 @@
-# assassin10
+# Assassin10 Frame
 10 inch long range FPV quadcopter frame. Name inspired by the Assassin bug.
 
 - Triple 20x20 stack mounting options with 30x30 in the center
@@ -7,7 +7,9 @@
 - 16x16, 19x19, 16x19 motor mounting
 - Top mount or bottom mount battery
 - 425mm motor to motor distance
-- Recommended: 7mm carbon fiber thickness for arms, 2.5mm or 3mm thickness for plates
+
+## Recommended Hardware
+- 7mm carbon fiber thickness for arms, 2.5mm or 3mm thickness for plates
 - 4x M3 pressnuts needed for arm screws
 - 4x 15mm screws
 - 4x 20mm screws
