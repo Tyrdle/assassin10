@@ -1,5 +1,6 @@
 # Assassin10 Frame
 10 inch long range FPV quadcopter frame. Name inspired by the Assassin bug.
+![Image of frame](https://github.com/Tyrdle/assassin10/raw/master/10inchrendercf.png)
 
 - Triple 20x20 stack mounting options with 30x30 in the center
 - Standard 27mm standoff spacing to fit a micro camera TPU mount
